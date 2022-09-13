@@ -1,0 +1,149 @@
+:root{
+    --dark-color:#001f3f;
+    --orange-color: #e1ad01;
+    --color: #ece3a3; #067e84
+}
+ 
+  /*start navbar*/ 
+.navbar{
+    background-color: #001f3f;
+    border-bottom:solid 1px #ece3a3;
+}
+.navbar .navbar-nav .nav-link{
+    color:white
+}
+.navbar-brand, .footer-brand{
+color:#e1ad01;
+}
+.navbar-brand .span1, .footer-brand .span1{
+color:#919ca5;
+}
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link:hover{
+    color:#ece3a3;
+}
+.navbar-collapse .dropdown-menu {
+    background-color: #001f3f;
+}
+.dropdown-menu .dropdown-item{
+    color: hsl(0, 0%, 100%);
+}
+.navbar .navbar-toggler{
+    color:#919ca5;
+    border-color:#919ca5;
+    font-size:25px;
+}
+.navbar .navbar-toggler:focus{
+box-shadow:nssone;
+}
+/*end about*/
+.about .container{
+    background-color:#001f3f;
+}
+.about .container .row h6{
+    border-bottom:3px solid #ece3a3;
+    width:280px;
+    
+}
+.about .container .row img{
+    box-shadow:1px 1px 15px #000;
+}
+.about .container .row {
+    background-color: #2b4357 ;
+  
+}
+.about  .container .row .about-itme{
+    background-color:#001f3f;
+    width:150px;
+    border-radius: 5px;
+} 
+.about  .container .row .about-itme:hover{
+    color:red;
+}
+/*end about*/
+
+/*start footer*/
+.footer{
+    background-color: #001f3f;
+}
+.footer .get ul li .span2{
+    color:#fff5a6;
+}
+.footer .copyright .span4{
+    color:#fff5a6;
+}
+.footer .copyright .span3{
+    border-left:solid 2px #919ca5; 
+    padding-left:5px;
+}
+/*end footer*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flight Permits
+Grounding Handling
+Fuel Arrangement
+Airport Slots
+24/7 Flight Watch
+Crew Services
+Navigation Bill Payment
+Catering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+<tbody><tr><td style="text-align: center;"><canvas id="canvas_tt5f97513615830" width="125" height="125"></canvas></td></tr>
+<tr><td style="text-align: center; font-weight: bold"><a href="//24timezones.com/current_time/china_beijing_clock.php" style="text-decoration: none" class="clock24" id="tz24-1603752246-cc11369-eyJzaXplIjoiMTI1IiwiYmdjb2xvciI6IjAwMDAwMCIsImxhbmciOiJlbiIsInR5cGUiOiJhIiwiY2FudmFzX2lkIjoiY2FudmFzX3R0NWY5NzUxMzYxNTgzMCJ9" title="timezone - Beijing" target="_blank" rel="nofollow">Beijing, China</a></td></tr>
+</tbody><tbody><tr><td style="text-align: center;"><canvas id="canvas_tt5f974ede29077" width="125" height="125"></canvas></td></tr>
+<tr><td style="text-align: center; font-weight: bold"><a href="//24timezones.com/current_time/saudi_arabia_riyadh_clock.php" style="text-decoration: none" class="clock24" id="tz24-1603751646-cc15153-eyJzaXplIjoiMTI1IiwiYmdjb2xvciI6IjAwMDAwMCIsImxhbmciOiJlbiIsInR5cGUiOiJhIiwiY2FudmFzX2lkIjoiY2FudmFzX3R0NWY5NzRlZGUyOTA3NyJ9" title="Current time in Riyadh" target="_blank" rel="nofollow">Jaddah, KSA</a></td></tr>
+</tbody> 
+
+<table>
